@@ -1,6 +1,5 @@
 # 🔐 Project 2 — Encryption & Decryption using Caesar Cipher
 
-**DecodeLabs Industrial Training Kit | Batch 2026**
 **Developed by:** Ajai
 **Domain:** Cyber Security
 **Framework:** PyQt5 (Python Desktop GUI)
